@@ -1,1 +1,1 @@
-# Digit_Recogni
+# Digit_Recognition
