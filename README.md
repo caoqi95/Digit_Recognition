@@ -23,3 +23,9 @@ Seperate the data set into 70% for training and 30% for testing randomly from ea
 Compare the result from 1), 2-1) and 2-3).
 
 For this project, find and apply the optimal or proper number of hidden units (and/or hidden layers).
+
+## Solution
+
++ MLP_Part for requirement 1)
+
++ DT_Part for requirement 2-1) ~ 2-3)
