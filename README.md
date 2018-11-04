@@ -1,6 +1,6 @@
 # Digit_Recognition
 
-This repo just for my project of Data Mining course. Which is using the .txt dataset and Decision Tree and MLP algorithm.
+This repo just for my project of Data Mining course. Which is using the .txt dataset provided by professor and using the Decision Tree and MLP algorithms.
 
 ## Dataset
 
